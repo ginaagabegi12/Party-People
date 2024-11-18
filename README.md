@@ -9,8 +9,7 @@ Gabriella Flynn: shermansthebest@gmail.com
 
 ## Datasets
 
-Grow Pittsburgh Gardens (2017) Food growing locations registered with Grow Pittsburgh. Data includes community gardens, community farms, schoolyard gardens, or urban farms. 
-https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens
+City of Pittsburgh Playing Fields (2021) shows different public parks with playing fields in them. Data includes names, if it has lights, the field usage, number of goal posts, and neighborhood.[https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens]](https://data.wprdc.org/dataset/playing-fields)
 
 Fish Fry Locations (2017) Lenten Fish Fry records for the Greater Pittsburgh region. Data is collected before and during the Lenten fish fry season each year by Code for Pittsburgh. Data is sourced from news outlets, social media, and public requests. https://data.wprdc.org/dataset/pittsburgh-fish-fry-map/resource/5d6e9a34-b000-4afc-9583-a65f18d83c51
 
